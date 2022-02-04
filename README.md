@@ -19,6 +19,10 @@ Este código simula o funcionamento de uma memória cache, com o preenchimento d
 
 - Otávio Alcântara
 
+<h2> Laboratório de Sistemas Digitais </h2>
+
+<img src="https://user-images.githubusercontent.com/59696629/152603654-3782f0eb-5937-40bd-955f-2206bd25dcab.png" width="250">
+
 <h2> Desenvolvimento </h2>
 
 - [x] Preenchimento dos endereços
